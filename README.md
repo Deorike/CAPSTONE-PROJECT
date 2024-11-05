@@ -26,7 +26,8 @@ Socks	 40,000.00
 (blank)	
 Grand Total	 345,000.00 
 
-![image](https://github.com/user-attachments/assets/4b28b818-4345-4878-a1e0-6834087bf32e)
+![image](https://github.com/user-attachments/assets/90a81ecd-e781-4372-9b16-df0488fca94c)
+
 
 Total Sales by region
 
@@ -38,7 +39,8 @@ Total Sales by region
  (blank) 	
  Grand Total 	 345,000.00 
 
-![image](https://github.com/user-attachments/assets/4cbf44a8-d525-424d-991b-9ca4266f4dca)
+![image](https://github.com/user-attachments/assets/7ec3f4c6-8c1d-4055-9c9e-01a0c5a8b5a9)
+
 
 Total Sales by Month
 
@@ -57,7 +59,41 @@ Total Sales by Month
  Nov 	 15,000.00 
  Dec 	 12,500.00 
  Grand Total 	 345,000.00 
-![image](https://github.com/user-attachments/assets/61f78189-3e32-4c8f-b844-f57a69b8452d)
+
+![image](https://github.com/user-attachments/assets/6eae3bc9-42cf-4492-8e58-71731937e757)
+
+
+# using excel formulars for calculating
+
+- The average sales per product
+- Total Revenue by region
+
+Row Labels	Average of Quantity
+Gloves	 8 
+Hat	 8 
+Jacket	 4 
+Shirt	 8 
+Shoes	 7 
+Socks	 5 
+(blank)	
+Grand Total	 7 
+
+![image](https://github.com/user-attachments/assets/44d825c1-e013-400f-a5a8-05f631ff6e97)
+
+ Row Labels 	 Sum of Total Sales 
+ East 	 2,450,000.00 
+ North 	 1,950,000.00 
+ South 	 4,675,000.00 
+ West 	 1,512,500.00 
+ (blank) 	
+ Grand Total 	 10,587,500.00 
+
+![image](https://github.com/user-attachments/assets/d5a6ca97-c367-4369-b0fb-818334269ca7)
+
+
+![image](https://github.com/user-attachments/assets/596e3841-a5ad-4203-8f5d-8f26c971c055)
+
+
 
 
 [Uploading LITA Capstone Dataset- Pivot Table.xlsx…]()
